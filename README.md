@@ -1,1 +1,1 @@
-# SImple-Introductory-Web-Dev-Project
+# Simple-Introductory-Web-Dev-Project
